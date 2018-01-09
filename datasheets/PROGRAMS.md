@@ -8,7 +8,7 @@ Data Field | Description
 ------ | -----------
 **program_organization** | Organization name of training provider of a program. This may be a college(2-year or 4-year), vocational institute or organization offering programs
 **program_name** | Name of program being offered by the training provider
-**program_code** | Unique ID identifying the program e.g CIP
+**program_code** | Unique ID identifying the program e.g Classification of Instructional Programs(CIP)
 **program_description** | Description of the program offered
 **program_status** | Current status of the program, indicating if it is still offered by the training provider
 **program_fees** | Cost of the program offered
