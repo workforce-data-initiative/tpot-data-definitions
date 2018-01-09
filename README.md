@@ -7,13 +7,17 @@ Supported file formats for upload include:
 * Comma-separated Values (.csv)
 
 ## Data Sheets
-Details of the data fields for each data set
+Details of the desired data fields for each data set are specified in the respective data sheets.
 
 ### Programs
-Data about training programs from a training provider
+Data about programs from training providers.
+
+See the [*Programs Data Sheet*](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md)
 
 ### Credentials
-Data about obtainable credentials from training programs
+Data about obtainable credentials from training programs.
+
+See the [*Credentials Data Sheet*](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md)
 
 <!-- ### Providers -->
 
