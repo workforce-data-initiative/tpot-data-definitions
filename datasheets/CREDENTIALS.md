@@ -19,6 +19,6 @@ Data Fields | Description
 **program_name** | Name of program being offered by the training provider
 **credential_status_type** | Status of credential as outlined by [Credentials Registry Vocabulary](http://credreg.net/registry/assistant#vocab_CredentialStatus). Valid status types are `Active`, `Deprecated`, `Probationary`, `Superceded`
 **delivery_type** | This relates closely with the `program_offering_model` [recommended programs field](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#recommended-fields)
-**learning_method** | Types of methods used to conduct the learning opportunity e.g Lecture, Seminar, Online
+**learning_method** | Types of methods used to conduct the learning opportunity e.g `Lecture`, `Seminar`, `Online`
 <!-- **audience** | -->
 <!-- **credential_audience_level** | -->
