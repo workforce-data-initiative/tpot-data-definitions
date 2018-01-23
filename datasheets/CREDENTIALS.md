@@ -17,11 +17,11 @@ The following fields are not required but they are recommended to provide more c
 Data Fields | Description
 ------------| --------------
 **program_name** | Name of program being offered by the training provider
-**credential_status_type** | Status of credential as outlined by [Credentials Registry Vocabulary](http://credreg.net/registry/assistant#vocab_CredentialStatus). Valid status types are `Active`, `Deprecated`, `Probationary`, `Superceded`
+**credential_status_type** | Status of credential as outlined by [Credentials Status Registry Vocabulary](http://credreg.net/registry/assistant#vocab_CredentialStatus). Valid status types are `Active`, `Deprecated`, `Probationary`, `Superceded`
 **delivery_type** | This relates closely with the `program_offering_model` [recommended programs field](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#recommended-fields)
 **learning_method** | Types of methods used to conduct the learning opportunity e.g `Lecture`, `Seminar`, `Online`
-<!-- **audience** | -->
-<!-- **credential_audience_level** | -->
+**audience** | The intended audience for the program for which this credential is granted e.g `Resident`, `FormerMilitary`, `PublicEmployee`. See full list of audiences in [Audience Credentials Registry Vocabulary](http://credreg.net/registry/assistant#vocab_Audience)
+**credential_audience_level** | The current credential/training level of the above audience e.g `AdvancedLevel`, `AssociatesDegreeLevel`, `BachelorsDegreeLevel`, `SecondaryLevel`, `PostSecondaryLevel`. See full list of audience levels in [Audience Level Credentials Registry Vocabulary](http://credreg.net/registry/assistant#vocab_AudienceLevel)
 
 ## Data Samples
 See what a valid credentials file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/credentials.csv).
