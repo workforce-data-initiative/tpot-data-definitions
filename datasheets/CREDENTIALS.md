@@ -22,3 +22,6 @@ Data Fields | Description
 **learning_method** | Types of methods used to conduct the learning opportunity e.g `Lecture`, `Seminar`, `Online`
 <!-- **audience** | -->
 <!-- **credential_audience_level** | -->
+
+## Data Samples
+See what a valid credentials file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/credentials.csv).
