@@ -1,5 +1,5 @@
 # Training Provider Outcomes Toolkit - Data Definitions
-Data sheets and templates indicating the data fields that can be included in files uploaded through the TPOT uploader for Outcomes processing. Each data sheet represents a `data format` capturing a specific set of training data, uploadable as files containing desired fields. This data is in turn cleansed and aggregated for the derivation of Provider Outcomes
+Data sheets and templates indicating the data fields that can be included in files uploaded through the **T**raining **P**rovider **O**utcomes **T**oolkit (**_TPOT_**) uploader for Outcomes processing. Each data sheet represents a `data format` capturing a specific set of training data, uploadable as files containing desired fields. This data is in turn cleansed and aggregated for the derivation of Provider Outcomes
 
 ## File Formats
 Supported file formats for upload include:
@@ -21,7 +21,12 @@ See the [*Credentials Data Sheet*](https://github.com/workforce-data-initiative/
 
 <!-- ### Providers -->
 
-<!-- ### Participants -->
+### Participants
+Data about program participants and their outcomes with regard to attainment of credentials awarded by the program in which they are enrolled
+
+See the [*Participants Data Sheet*](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PARTICIPANTS.md)
 
 <!-- ### Wages -->
 
+## Giving Feedback
+To help improve these data definitions for your use and align expectations of the **_TPOT_** data quality processes, please share your feedback on changes or enhancements by [opening an issue](https://github.com/workforce-data-initiative/tpot-data-definitions/issues) for the applicable data format.
