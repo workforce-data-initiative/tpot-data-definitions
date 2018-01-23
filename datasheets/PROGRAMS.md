@@ -29,3 +29,6 @@ Data Field | Description
 **languages** | Languages in which the program is offered
 **current_intake_capacity** | Number of participants that the program can enroll
 **program_offering_model** | How is the program offered? Classes at a physical location, online, set of workshops? 
+
+## Data Samples
+See what a valid programs file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/programs.csv).
