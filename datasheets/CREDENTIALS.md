@@ -8,7 +8,7 @@ Data Fields | Description
 ------------| --------------
 **program_code** |  Unique ID identifying the program e.g Classification of Instructional Programs(CIP)
 **credential_name** | Full name of the credential offered
-**credential_type** | Type of credential obtained e.g Associate Degree, Bachelors Degree, Apprenticeship Certificate
+**credential_type** | Type of credential obtained e.g `Associate Degree`, `Bachelors Degree`, `Apprenticeship Certificate`
 **CTID** | [Globally unique Credential Transparency Identifier (CTID)](http://credreg.net/ctdl/terms/ctid#ctid) by which the provider of a credential recognizes the (credential) entity in transactions with the external environment (e.g., in verifiable claims involving a credential).
 
 ## Recommended Fields
