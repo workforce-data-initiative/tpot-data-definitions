@@ -10,13 +10,13 @@ Data Field | Description
 **program_name** | Name of program being offered by the training provider
 **program_code** | Unique ID identifying the program e.g Classification of Instructional Programs(CIP)
 **program_description** | Description of the program offered
-**program_status** | Current status of the program, indicating if it is still offered by the training provider
+**program_status** | Current status of the program, indicating if it is still offered by the training provider e.g `Open`, `Discontinued`, `Deferred`
 **program_fees** | Cost of the program offered
 **geographic_areas** | Area(s) serviced by the program, this could be state, county or city
 **program_address** | Physical address where the program is offered
 **funding_sources** | Sources of funding for the program including state or federal support
-**eligibility_criteria** | Requirement(s) for eligibility to enroll for the program e.g state residents, high-schools
-**credential_earned** | Credential earned after completion of the program
+**eligibility_criteria** | Requirement(s) for eligibility to enroll for the program e.g `Residents`, `MilitarySpouse`, `BachelorsLevel`. This closely [links to `Audience` and `Audience Level` in Credentials recommended fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#recommended-fields) 
+**credential_earned** | Credential earned after completion of the program. This matches the [`credential_type` in the Credentials required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#required-fields)
 
 ## Recommended Fields
 The following fields are not required but they are recommended to provide more insights into program data.
@@ -28,7 +28,7 @@ Data Field | Description
 **program_website** | URL for the program or provider's website
 **languages** | Languages in which the program is offered
 **current_intake_capacity** | Number of participants that the program can enroll
-**program_offering_model** | How is the program offered? Classes at a physical location, online, set of workshops? 
+**program_offering_model** | How is the program offered? Classes at a physical location, online, set of workshops? This is similar to the `learning_method` captured in [Credentials recommended fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#recommended-fields)
 
 ## Data Samples
 See what a valid programs file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/programs.csv).
