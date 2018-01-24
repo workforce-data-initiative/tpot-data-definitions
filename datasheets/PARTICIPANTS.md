@@ -11,9 +11,9 @@ Data Fields | Description
 **potential_credential** | Prospective credential that participant can (or has already) obtained from the program they are enrolled in. This closely captures the [`credential_type` in the Credentials required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#required-fields)
 **entry_date** | Date participant commenced the program, this may differ from the enrollment date and the official date of program commencement set by the provider
 **exit_date** | Date participant exited the program
-**type_of_exit** | Nature of participant's exit from the program e.g `Transfered`, `Completed`, `Withdrawn`, `Suspended`
+**exit_type** | Nature of participant's exit from the program e.g `Transferred`, `Completed`, `Withdrew`, `Suspended`
 **obtained_credential** | Did the participant obtain the credential awarded by the provider for the program? An indication of `Yes` or `No`
-**participant_funding** | Source of funding for the participant's program
+**funding_sources** | Sources of funding for the participant's program. Sources of funding may relate to [`funding sources` captured for Programs data](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
 
 
 ## Recommended Fields
