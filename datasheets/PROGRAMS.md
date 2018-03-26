@@ -16,7 +16,7 @@ Data Field | Description
 **program_address** | Physical address where the program is offered
  **eligibility_criteria** | Requirement(s) for eligibility to enroll for the program e.g `Residents`, `MilitarySpouse`, `BachelorsLevel`. This closely [links to `Audience` and `Audience Level` in Credentials recommended fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#recommended-fields) 
 **credential_earned** | Credential earned after completion of the program. This matches the [`credential_type` in the Credentials required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#required-fields)
-**program_potential_outcome** | The potential outcomes of a participant enrolled in the program e.g `Graduated`, `Transferred`, `Withdrew`, `Suspended`, `Terminated`
+**program_potential_outcome** | List (comma-separated) of potential outcomes for a participant enrolled in the program e.g `Graduated`, `Transferred`, `Withdrew`, `Suspended`, `Terminated`
 
 ## Recommended Fields
 The following fields are not required but they are recommended to provide more insights into program data.
