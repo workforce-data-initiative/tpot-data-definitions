@@ -17,7 +17,7 @@ Data Field | Description
  **eligibility_criteria** | Requirement(s) for eligibility to enroll for the program e.g `Residents`, `MilitarySpouse`, `BachelorsLevel`. This closely [links to `Audience` and `Audience Level` in Credentials recommended fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#recommended-fields) 
 **credential_earned** | Credential earned after completion of the program. This matches the [`credential_type` in the Credentials required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#required-fields)
 **program_potential_outcome** | The potential outcomes of a participant enrolled in the program e.g `Graduate`, `Transfer`, `Terminate`, `Suspend`
-**is_wioa** | Is this a Workforce Innovation and Opportunity Act(WIOA) program? An indication of `Yes` or `No`, null entry is assumed to be `No`
+**is_wioa** | Is this a [Workforce Innovation and Opportunity Act(WIOA)](https://www.doleta.gov/WIOA/Overview.cfm) program? An indication of `Yes` or `No`, null entry is assumed to be `No`
 
 ## Recommended Fields
 The following fields are not required but they are recommended to provide more insights into program data.
