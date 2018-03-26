@@ -4,8 +4,6 @@ The description of required and recommended fields for participants data follows
 ## Required Fields
 The outlined fields are required to derive the required set of provider outcomes. Files uploaded need not necessarily use the same field header names.
 
-_**TO BE ADDED**: Additional fields for participant wages data_
-
 Data Fields | Description
 ------------| --------------
 **participant_id** | Unique ID identifying a program participant, e.g a Social Security Number. Participant unique identification supports operations like wage matching for outcomes derivation
