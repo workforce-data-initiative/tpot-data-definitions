@@ -1,101 +1,51 @@
-participant_code,program_code,,credential_type,entry_date,exit_date,exit_type,obtained_credential,funding_sources,program_name,geographic_areas
-445-27-0425,76,0.992800874339626,Apprenticeship Certificate,09/19/2016,03/19/2017,Transferred,No,Federal,Apprenticeship Certificate in Accounting,Alabama
-462-94-3500,30,0.992111062360639,Associate Degree,02/18/2011,06/18/2013,Completed,Yes,State,Associate Degree in Sales,New York
-105-30-3319,26,0.987357181856095,Associate Degree,04/09/2015,06/09/2015,Suspended,No,Self,Associate Degree in Support,District of Columbia
-535-49-3914,72,0.976945792746492,Attendance Certificate,01/22/2011,06/22/2011,Completed,Yes,Federal,Attendance Certificate in Product Management,Indiana
-576-45-5554,99,0.974892139674008,Attendance Certificate,10/07/2011,01/07/2012,Suspended,No,Federal,Attendance Certificate in Research and Development,Ohio
-555-48-6089,41,0.973251964365635,Attendance Certificate,06/11/2016,07/11/2016,Completed,Yes,Federal,Attendance Certificate in Legal,Indiana
-838-42-6638,61,0.965939399439668,Apprenticeship Certificate,05/01/2016,06/01/2016,Withdrew,No,State,Apprenticeship Certificate in Human Resources,Michigan
-880-56-6377,18,0.953489631623904,Attendance Certificate,06/23/2017,07/18/2017,Transferred,Yes,Federal,Attendance Certificate in Human Resources,New York
-361-97-5665,40,0.952097682148891,Bachelors Degree,04/12/2016,09/12/2016,Transferred,No,Federal,Bachelors Degree in Engineering,Illinois
-778-99-9036,20,0.94521256647115,Bachelors Degree,03/19/2017,03/19/2019,Withdrew,No,State,Bachelors Degree in Business Development,Missouri
-791-56-7637,65,0.934038845294633,Apprenticeship Certificate,05/10/2017,11/10/2017,Withdrew,No,Federal,Apprenticeship Certificate in Legal,California
-138-35-6887,48,0.928831299486835,Apprenticeship Certificate,10/15/2012,01/15/2013,Transferred,Yes,State,Apprenticeship Certificate in Product Management,Colorado
-886-72-0594,57,0.913160694604223,Attendance Certificate,02/05/2015,04/05/2015,Completed,Yes,Federal,Attendance Certificate in Research and Development,Florida
-826-08-0244,4,0.908286465625006,Apprenticeship Certificate,05/28/2011,09/28/2011,Transferred,Yes,Federal,Apprenticeship Certificate in Human Resources,Minnesota
-604-16-5608,47,0.900622980491253,Associate Degree,02/08/2014,05/08/2016,Transferred,No,Federal,Associate Degree in Support,Texas
-653-06-7218,17,0.892781549214846,Bachelors Degree,02/27/2012,03/27/2012,Withdrew,No,Federal,Bachelors Degree in Research and Development,Nevada
-781-06-3761,74,0.892389157114152,Bachelors Degree,12/20/2013,03/20/2015,Completed,Yes,State,Bachelors Degree in Marketing,Pennsylvania
-242-05-3511,60,0.874268446523565,Bachelors Degree,06/23/2012,09/23/2012,Suspended,No,State,Bachelors Degree in Product Management,Florida
-456-90-1807,44,0.856896073550019,Bachelors Degree,02/09/2011,06/09/2016,Withdrew,No,State,Bachelors Degree in Sales,Texas
-688-96-4447,59,0.855437556824655,Associate Degree,07/28/2017,07/28/2019,Completed,Yes,State,Associate Degree in Legal,Pennsylvania
-410-86-4721,38,0.852819495893764,Apprenticeship Certificate,10/02/2015,10/02/2016,Withdrew,No,Federal,Apprenticeship Certificate in Training,Kansas
-421-58-9179,15,0.848863585300608,Attendance Certificate,11/08/2015,30/08/2015,Withdrew,No,Self,Attendance Certificate in Product Management,New Jersey
-731-60-5417,68,0.831823784755116,Bachelors Degree,05/27/2010,05/27/2012,Suspended,No,Federal,Bachelors Degree in Engineering,Texas
-851-73-9812,37,0.806364593863614,Apprenticeship Certificate,10/10/2014,03/10/2015,Suspended,No,State,Apprenticeship Certificate in Human Resources,Pennsylvania
-313-76-9896,46,0.799272514130838,Bachelors Degree,10/18/2016,10/18/2018,Suspended,No,State,Bachelors Degree in Sales,North Carolina
-354-47-4170,42,0.796483849429292,Attendance Certificate,05/12/2014,09/12/2014,Transferred,Yes,State,Attendance Certificate in Product Management,Missouri
-744-79-2573,19,0.795089523460119,Associate Degree,08/12/2010,12/12/2010,Withdrew,No,State,Associate Degree in Research and Development,Georgia
-393-08-1147,51,0.791817342378465,Apprenticeship Certificate,06/25/2011,12/25/2011,Transferred,No,Federal,Apprenticeship Certificate in Product Management,District of Columbia
-417-18-6485,6,0.782464363086849,Bachelors Degree,08/04/2013,11/04/2017,Completed,Yes,Federal,Bachelors Degree in Sales,Maryland
-243-06-4146,69,0.77551609639293,Bachelors Degree,02/01/2015,05/01/2017,Completed,Yes,Federal,Bachelors Degree in Business Development,Florida
-531-51-3302,28,0.76566093916857,Apprenticeship Certificate,11/24/2014,02/24/2015,Transferred,Yes,State,Apprenticeship Certificate in Research and Development,Texas
-741-27-4005,31,0.762231955254575,Apprenticeship Certificate,04/18/2013,05/18/2013,Completed,No,Federal,Apprenticeship Certificate in Services,North Carolina
-551-81-6144,75,0.753909009354398,Bachelors Degree,09/09/2016,10/09/2017,Completed,Yes,Federal,Bachelors Degree in Human Resources,Ohio
-810-48-1514,9,0.752733081220782,Bachelors Degree,09/17/2013,10/17/2017,Transferred,Yes,State,Bachelors Degree in Accounting,California
-239-37-6711,67,0.733319120528088,Bachelors Degree,12/18/2012,04/18/2013,Withdrew,No,State,Bachelors Degree in Product Management,Arizona
-638-54-4918,29,0.717557963096394,Bachelors Degree,05/11/2010,07/11/2014,Completed,Yes,State,Bachelors Degree in Human Resources,Texas
-839-07-8499,71,0.690120761125369,Apprenticeship Certificate,08/17/2016,08/17/2018,Suspended,No,State,Apprenticeship Certificate in Product Management,Indiana
-818-94-0769,80,0.68066054629745,Associate Degree,11/07/2013,01/07/2014,Transferred,No,State,Associate Degree in Human Resources,Illinois
-116-58-0685,10,0.67958211413011,Attendance Certificate,10/18/2013,11/18/2013,Completed,Yes,Self,Attendance Certificate in Marketing,District of Columbia
-265-80-1277,78,0.666051187043755,Associate Degree,11/06/2010,11/06/2012,Completed,Yes,Federal,Associate Degree in Business Development,Indiana
-883-66-9870,8,0.663928170203255,Associate Degree,05/20/2011,08/20/2013,Transferred,Yes,State,Associate Degree in Marketing,California
-326-08-9521,70,0.645726963507745,Apprenticeship Certificate,06/29/2017,08/29/2017,Transferred,Yes,State,Apprenticeship Certificate in Sales,Utah
-499-26-9057,24,0.640889768622135,Apprenticeship Certificate,02/25/2011,07/25/2012,Completed,Yes,Federal,Apprenticeship Certificate in Sales,Texas
-781-35-9960,50,0.626777361293949,Associate Degree,05/26/2010,09/26/2010,Transferred,Yes,State,Associate Degree in Marketing,Arkansas
-829-96-3945,90,0.622548948617772,Bachelors Degree,09/03/2014,03/03/2015,Transferred,Yes,Federal,Bachelors Degree in Support,South Dakota
-369-47-3257,35,0.612240322967182,Apprenticeship Certificate,03/02/2015,08/02/2015,Completed,Yes,State,Apprenticeship Certificate in Legal,California
-327-23-4165,97,0.599732696617361,Bachelors Degree,01/20/2015,01/20/2017,Suspended,No,State,Bachelors Degree in Sales,California
-792-51-0844,100,0.584424566330912,Attendance Certificate,10/05/2011,02/05/2012,Transferred,Yes,State,Attendance Certificate in Product Management,New York
-473-23-4577,84,0.568190341223332,Bachelors Degree,03/14/2017,09/14/2017,Transferred,Yes,Federal,Bachelors Degree in Business Development,Washington
-776-91-9889,79,0.553571618209158,Associate Degree,09/14/2012,01/14/2013,Completed,Yes,Federal,Associate Degree in Support,California
-506-58-7102,16,0.52207533358542,Bachelors Degree,09/06/2012,11/06/2016,Transferred,Yes,Federal,Bachelors Degree in Research and Development,Pennsylvania
-429-29-8667,66,0.464218575650655,Apprenticeship Certificate,02/02/2012,06/02/2012,Completed,Yes,Federal,Apprenticeship Certificate in Training,Michigan
-589-80-1644,33,0.463448009259187,Bachelors Degree,09/20/2017,10/20/2017,Suspended,No,State,Bachelors Degree in Legal,Texas
-420-20-4386,23,0.459320047779476,Associate Degree,12/26/2013,12/26/2015,Suspended,No,State,Associate Degree in Product Management,Idaho
-640-51-5633,27,0.440779890310347,Attendance Certificate,12/21/2012,01/21/2013,Withdrew,No,State,Attendance Certificate in Services,California
-596-02-3685,25,0.433176113881774,Associate Degree,08/18/2013,09/18/2015,Transferred,Yes,State,Associate Degree in Human Resources,Illinois
-219-96-9284,22,0.43234124959826,Apprenticeship Certificate,05/18/2010,08/18/2010,Completed,Yes,Federal,Apprenticeship Certificate in Research and Development,Michigan
-333-86-1272,64,0.427546640096364,Associate Degree,08/21/2010,09/21/2010,Suspended,No,State,Associate Degree in Training,Florida
-178-44-4020,45,0.425625423553284,Bachelors Degree,01/06/2012,06/06/2012,Suspended,No,Federal,Bachelors Degree in Services,Texas
-335-59-9699,95,0.415458455056884,Bachelors Degree,05/05/2012,06/05/2014,Completed,Yes,State,Bachelors Degree in Engineering,Tennessee
-342-96-2134,58,0.395907804341227,Attendance Certificate,07/09/2017,10/09/2017,Withdrew,No,Federal,Attendance Certificate in Legal,Kansas
-422-15-5829,55,0.376540809701782,Attendance Certificate,02/15/2013,06/15/2013,Transferred,No,Federal,Attendance Certificate in Business Development,Pennsylvania
-686-78-7015,54,0.366737293280093,Bachelors Degree,04/05/2014,07/05/2017,Completed,Yes,Federal,Bachelors Degree in Engineering,Nevada
-880-94-6380,43,0.346700383868293,Apprenticeship Certificate,07/30/2016,11/30/2016,Suspended,No,Federal,Apprenticeship Certificate in Human Resources,District of Columbia
-779-32-1589,14,0.340113155837637,Bachelors Degree,06/30/2014,10/30/2017,Completed,Yes,Federal,Bachelors Degree in Legal,Michigan
-150-17-3952,11,0.337258073698509,Attendance Certificate,04/04/2013,08/04/2013,Suspended,No,State,Attendance Certificate in Sales,Georgia
-736-48-9713,52,0.321200503421301,Associate Degree,04/14/2011,05/14/2011,Suspended,No,State,Associate Degree in Engineering,Missouri
-320-52-7824,94,0.32003928675494,Attendance Certificate,03/13/2017,05/13/2017,Suspended,No,State,Attendance Certificate in Human Resources,Washington
-416-19-5253,83,0.317984051747668,Attendance Certificate,03/18/2016,09/18/2016,Withdrew,No,Federal,Attendance Certificate in Accounting,Missouri
-887-50-6915,62,0.308973318718648,Bachelors Degree,11/19/2013,11/19/2015,Completed,Yes,State,Bachelors Degree in Research and Development,Louisiana
-319-76-6359,96,0.289277842462563,Associate Degree,03/26/2015,04/26/2015,Transferred,Yes,Federal,Associate Degree in Training,Indiana
-458-20-6634,1,0.286497572151559,Attendance Certificate,03/18/2016,06/18/2016,Transferred,Yes,Self,Attendance Certificate in Legal,Florida
-116-67-0413,81,0.285296983838786,Associate Degree,03/20/2015,09/20/2015,Suspended,No,State,Associate Degree in Accounting,Maryland
-434-02-3001,39,0.272805467937011,Bachelors Degree,11/08/2012,11/08/2014,Suspended,No,State,Bachelors Degree in Research and Development,Kansas
-409-02-8250,98,0.26911124227246,Associate Degree,07/14/2014,12/14/2014,Transferred,No,Federal,Associate Degree in Services,Nevada
-519-15-8185,91,0.267279065752645,Attendance Certificate,04/12/2014,10/12/2014,Withdrew,No,Federal,Attendance Certificate in Human Resources,South Carolina
-518-95-9945,12,0.255683048264964,Apprenticeship Certificate,04/30/2016,07/30/2016,Suspended,No,State,Apprenticeship Certificate in Engineering,Texas
-134-04-8235,89,0.253243997236871,Apprenticeship Certificate,07/09/2015,10/09/2015,Completed,Yes,State,Apprenticeship Certificate in Business Development,Indiana
-120-87-8887,32,0.220401990765937,Attendance Certificate,05/02/2016,07/02/2016,Transferred,Yes,Federal,Attendance Certificate in Accounting,California
-425-30-6432,73,0.205509217173599,Apprenticeship Certificate,01/12/2016,07/12/2016,Transferred,Yes,State,Apprenticeship Certificate in Services,California
-228-75-9620,82,0.202669106119967,Associate Degree,05/21/2012,08/21/2012,Suspended,No,State,Associate Degree in Accounting,Colorado
-585-32-2582,87,0.183608640714814,Bachelors Degree,02/19/2013,07/19/2014,Completed,Yes,State,Bachelors Degree in Accounting,Florida
-472-65-8540,56,0.137120020973024,Apprenticeship Certificate,03/05/2015,04/05/2015,Transferred,Yes,Federal,Apprenticeship Certificate in Training,California
-248-66-8891,85,0.134935973004686,Bachelors Degree,08/14/2017,01/14/2018,Transferred,No,Federal,Bachelors Degree in Services,Georgia
-484-03-3246,53,0.118600919637189,Bachelors Degree,04/01/2014,04/01/2016,Withdrew,No,Federal,Bachelors Degree in Product Management,Pennsylvania
-239-67-9519,86,0.0987682469437567,Attendance Certificate,11/08/2014,12/08/2014,Completed,Yes,Federal,Attendance Certificate in Engineering,Connecticut
-654-67-3776,21,0.0833523183913798,Attendance Certificate,07/07/2017,01/07/2018,Completed,Yes,State,Attendance Certificate in Support,Ohio
-711-93-1651,13,0.0794335190683924,Bachelors Degree,10/16/2017,10/16/2019,Suspended,No,Federal,Bachelors Degree in Sales,California
-506-39-3985,77,0.0761016787148623,Attendance Certificate,12/31/2010,01/31/2011,Withdrew,No,Federal,Attendance Certificate in Support,District of Columbia
-462-15-0927,2,0.0739689276334533,Apprenticeship Certificate,05/17/2014,09/17/2014,Transferred,No,Federal,Apprenticeship Certificate in Accounting,Georgia
-616-27-3287,63,0.0726938317966319,Bachelors Degree,04/14/2011,06/14/2011,Withdrew,No,Federal,Bachelors Degree in Legal,Arizona
-467-60-6754,5,0.0662180167244432,Associate Degree,11/02/2010,01/02/2011,Suspended,No,Federal,Associate Degree in Legal,North Carolina
-146-86-6889,88,0.0658313828030038,Apprenticeship Certificate,08/11/2011,09/11/2011,Suspended,Yes,Federal,Apprenticeship Certificate in Training,Minnesota
-364-18-3813,49,0.0654074029302105,Associate Degree,12/26/2015,05/26/2016,Suspended,No,Federal,Associate Degree in Engineering,North Carolina
-170-57-2921,92,0.0479600466657807,Associate Degree,12/06/2015,12/06/2017,Transferred,Yes,State,Associate Degree in Support,District of Columbia
-808-21-8737,93,0.0438216072119376,Bachelors Degree,08/19/2013,01/19/2014,Suspended,No,State,Bachelors Degree in Sales,New Mexico
-369-47-1731,36,0.0437771540152639,Apprenticeship Certificate,05/19/2013,09/19/2013,Suspended,No,Federal,Apprenticeship Certificate in Product Management,California
-633-48-4079,7,0.039752679630757,Apprenticeship Certificate,05/20/2010,07/20/2010,Withdrew,No,State,Apprenticeship Certificate in Product Management,Texas
-568-66-1953,3,0.0397249891508091,Apprenticeship Certificate,06/27/2012,08/27/2012,Suspended,No,Federal,Apprenticeship Certificate in Accounting,Florida
-128-40-3284,34,0.00745297852052518,Apprenticeship Certificate,12/20/2010,05/20/2011,Withdrew,No,Federal,Apprenticeship Certificate in Product Management,Virginia
+participant_id,wioa_participant,program_code,entry_date,exit_date,exit_type,funding_sources
+445-27-0425,YES,775906,09/19/2016,03/19/2017,Transferred,Federal
+462-94-3500,NO,623330,02/18/2011,06/18/2013,Completed,State
+105-30-3319,NO,256443,04/09/2015,06/09/2015,Suspended,Self
+535-49-3914,NO,758060,01/22/2011,06/22/2011,Completed,Federal
+576-45-5554,YES,840724,10/07/2011,01/07/2012,Suspended,Federal
+555-48-6089,NO,908157,06/11/2016,07/11/2016,Completed,Federal
+838-42-6638,YES,139974,05/01/2016,06/01/2016,Withdrew,State
+880-56-6377,NO,375676,06/23/2017,07/18/2017,Transferred,Federal
+361-97-5665,YES,459716,04/12/2016,09/12/2016,Transferred,Federal
+778-99-9036,YES,952,03/19/2017,03/19/2019,Withdrew,State
+791-56-7637,YES,476738,05/10/2017,11/10/2017,Withdrew,Federal
+138-35-6887,NO,699766,10/15/2012,01/15/2013,Transferred,State
+886-72-0594,NO,670137,02/05/2015,04/05/2015,Completed,Federal
+826-08-0244,NO,470435,05/28/2011,09/28/2011,Transferred,Federal
+604-16-5608,YES,222287,02/08/2014,05/08/2016,Transferred,Federal
+653-06-7218,YES,799953,02/27/2012,03/27/2012,Withdrew,Federal
+781-06-3761,YES,378161,12/20/2013,03/20/2015,Completed,State
+242-05-3511,NO,107729,06/23/2012,09/23/2012,Suspended,State
+456-90-1807,NO,922116,02/09/2011,06/09/2016,Withdrew,State
+688-96-4447,NO,762015,07/28/2017,07/28/2019,Completed,State
+410-86-4721,NO,297627,10/02/2015,10/02/2016,Withdrew,Federal
+421-58-9179,YES,190972,11/08/2015,30/08/2015,Withdrew,Self
+731-60-5417,NO,867621,05/27/2010,05/27/2012,Suspended,Federal
+851-73-9812,NO,478209,10/10/2014,03/10/2015,Suspended,State
+313-76-9896,NO,364944,10/18/2016,10/18/2018,Suspended,State
+354-47-4170,NO,484083,05/12/2014,09/12/2014,Transferred,State
+744-79-2573,YES,371833,08/12/2010,12/12/2010,Withdrew,State
+393-08-1147,NO,475844,06/25/2011,12/25/2011,Transferred,Federal
+417-18-6485,YES,681001,08/04/2013,11/04/2017,Completed,Federal
+243-06-4146,YES,960383,02/01/2015,05/01/2017,Completed,Federal
+531-51-3302,YES,20397,11/24/2014,02/24/2015,Transferred,State
+741-27-4005,YES,329414,04/18/2013,05/18/2013,Completed,Federal
+551-81-6144,YES,849346,09/09/2016,10/09/2017,Completed,Federal
+810-48-1514,YES,51912,09/17/2013,10/17/2017,Transferred,State
+239-37-6711,NO,14334,12/18/2012,04/18/2013,Withdrew,State
+638-54-4918,YES,889318,05/11/2010,07/11/2014,Completed,State
+839-07-8499,YES,999185,08/17/2016,08/17/2018,Suspended,State
+818-94-0769,YES,884803,11/07/2013,01/07/2014,Transferred,State
+116-58-0685,NO,760938,10/18/2013,11/18/2013,Completed,Self
+265-80-1277,NO,57009,11/06/2010,11/06/2012,Completed,Federal
+883-66-9870,YES,36788,05/20/2011,08/20/2013,Transferred,State
+326-08-9521,NO,138196,06/29/2017,08/29/2017,Transferred,State
+499-26-9057,NO,918969,02/25/2011,07/25/2012,Completed,Federal
+781-35-9960,NO,266879,05/26/2010,09/26/2010,Transferred,State
+829-96-3945,YES,857444,09/03/2014,03/03/2015,Transferred,Federal
+369-47-3257,YES,138351,03/02/2015,08/02/2015,Completed,State
+327-23-4165,NO,726367,01/20/2015,01/20/2017,Suspended,State
+792-51-0844,NO,159274,10/05/2011,02/05/2012,Transferred,State
+473-23-4577,YES,892167,03/14/2017,09/14/2017,Transferred,Federal
+776-91-9889,YES,76603,09/14/2012,01/14/2013,Completed,Federal
