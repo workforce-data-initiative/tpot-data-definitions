@@ -6,15 +6,13 @@ The outlined fields are required to derive the required set of provider outcomes
 
 Data Fields | Description
 ------------| --------------
-**participant_code** | Unique ID identifying a program participant. Participant unique identification will support operations like wage matching for outcomes derivation
-**program_code** | Unique ID identifying the participant's program e.g Classification of Instructional Programs(CIP). This would map to the [`program_code` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields) 
+**participant_id** | Unique ID identifying a program participant, e.g a Social Security Number. Participant unique identification supports operations like wage matching for outcomes derivation.
+**program_code** | Numeric code uniquely identifying the category in which program falls e.g it's Classification of Instructional Programs(CIP). This maps to the [`program_code` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields) 
 **potential_credential** | Prospective credential that participant can (or has already) obtained from the program they are enrolled in. This closely captures the [`credential_type` in the Credentials required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#required-fields)
 **entry_date** | Date participant commenced the program, this may differ from the enrollment date and the official date of program commencement set by the provider
 **exit_date** | Date participant exited the program
-**exit_type** | Nature of participant's exit from the program e.g `Transferred`, `Completed`, `Withdrew`, `Suspended`
+**exit_type** | Nature of participant's exit from the program e.g `Graduated`, `Transferred`. This maps to the [`program_potential_outcome` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
 **obtained_credential** | Did the participant obtain the credential awarded by the provider for the program? An indication of `Yes` or `No`
-**funding_sources** | Sources of funding for the participant's program. Sources of funding may relate to [`funding sources` captured for Programs data](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
-
 
 ## Recommended Fields
 The following fields are not required but they are recommended to provide additional data for outcomes analysis.
@@ -23,6 +21,7 @@ Data Fields | Description
 ------------| --------------
 **program_name** | Name of the participant's program
 **service_location** | Geographic location of service of the program a participant is enrolled in. Ideally this would map to one of the [`geographic areas` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
+**funding_sources** | Sources of funding for the participant's program. Sources of funding may relate to [`funding sources` captured for Programs data](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#recommended-fields)
 
 ## Data Samples
 See what a valid participants file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/participants.csv).
