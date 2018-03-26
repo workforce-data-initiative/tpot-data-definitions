@@ -6,8 +6,8 @@ The outlined fields are required to derive the required set of provider outcomes
 
 Data Fields | Description
 ------------| --------------
-**program_code** |  Unique ID identifying the program e.g Classification of Instructional Programs(CIP)
-**credential_name** | Full name of the credential offered
+**program_code** |  Numeric code uniquely identifying the category in which program for which credential is assigned falls. This maps to the [`program_code` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
+**credential_name** | Full name of the credential offered for program
 **credential_type** | Type of credential obtained e.g `Associate Degree`, `Bachelors Degree`, `Apprenticeship Certificate`
 **CTID** | [Globally unique Credential Transparency Identifier (CTID)](http://credreg.net/ctdl/terms/ctid#ctid) by which the provider of a credential recognizes the (credential) entity in transactions with the external environment (e.g., in verifiable claims involving a credential).
 
