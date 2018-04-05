@@ -22,9 +22,14 @@ See the [*Credentials Data Sheet*](https://github.com/workforce-data-initiative/
 <!-- ### Providers -->
 
 ### Participants
-Data about program participants and their outcomes with regard to attainment of credentials awarded by the program in which they are enrolled
+Data about non-WIOA program participants and their outcomes with regard to attainment of credentials awarded by the program in which they are enrolled.
 
 See the [*Participants Data Sheet*](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PARTICIPANTS.md)
+
+### WIOA Participants
+Data about WIOA program participants and their outcomes with regard to attainment of credentials awarded by the program in which they are enrolled.
+
+See the [*WIOA Participants Data Sheet*](tpot-data-definitions/datasheets/WIOA_PARTICIPANTS.md)
 
 <!-- ### Wages -->
 
