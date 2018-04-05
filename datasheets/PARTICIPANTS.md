@@ -6,12 +6,12 @@ The outlined fields are required to derive the required set of provider outcomes
 
 Data Fields | Description
 ------------| --------------
-**participant_id** | Unique ID identifying a program participant, e.g a Social Security Number. Participant unique identification supports operations like wage matching for outcomes derivation
-**wioa_participant** | Is participant a [Workforce Innovation and Opportunity Act(WIOA)](https://www.doleta.gov/WIOA/Overview.cfm) beneficiary? An indication of `Yes` or `No`, null entry is assumed to be `No`
+**participant_id** | Unique ID identifying a program participant throughout period of participation, e.g a Social Security Number. Participant unique identification supports operations like wage matching for outcomes derivation
 **program_code** | Numeric code uniquely identifying the category in which program falls e.g it's Classification of Instructional Programs(CIP). This maps to the [`program_code` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
 **entry_date** | Date participant commenced the program, this may differ from the enrollment date and the official date of program commencement set by the provider
 **exit_date** | Date participant exited the program
 **exit_type** | Nature of participant's exit from the program e.g `Graduated`, `Transferred` etc. This maps to the [`program_potential_outcome` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
+**exit_reason** | For individuals that exit program based on exit types related to abandonment of program, use any of these numeric values to capture why, `01 = Institutionalized`, `02 = Health/Medical`, `03 = Deceased`, `04 = Reserve Forces called to Active Duty`, `05 = Foster Care`, `06 = Ineligible`, `99 = Not a Valid SSN`, `00 = Other`. There is also an additional option, `98 = Retirement`. These options are based on the WIOA codes provided in [PIRL]() at this time
 
 ## Recommended Fields
 The following fields are not required but they are recommended to provide additional data for outcomes analysis.
