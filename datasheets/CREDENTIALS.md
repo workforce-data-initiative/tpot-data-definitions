@@ -8,7 +8,7 @@ Data Fields | Description
 ------------| --------------
 **program_code** |  Numeric code uniquely identifying the category in which program for which credential is assigned falls. This maps to the [`program_code` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
 **credential_name** | Full name of the credential offered for program
-**credential_type** | Type of credential obtained e.g `Associate Degree`, `Bachelors Degree`, `Apprenticeship Certificate`
+**credential_type** | Type of credential obtained e.g `Associate Degree`, `Bachelors Degree`, `Apprenticeship Certificate`. These credential types match up the [Credentials Registry Mapping of `Credential Type`](http://credreg.net/ctdl/mapping/registry)
 **CTID** | [Globally unique Credential Transparency Identifier (CTID)](http://credreg.net/ctdl/terms/ctid#ctid) by which the provider of a credential recognizes the (credential) entity in transactions with the external environment (e.g., in verifiable claims involving a credential).
 
 ## Recommended Fields
