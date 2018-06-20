@@ -17,6 +17,7 @@ Data Field | Description
  **eligibility_criteria** | Requirement(s) for eligibility to enroll for the program e.g `Residents`, `MilitarySpouse`, `BachelorsLevel`. This closely [links to `Audience` and `Audience Level` in Credentials recommended fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#recommended-fields) 
 **credential_earned** | Credential earned after completion of the program. This matches the [`credential_type` in the Credentials required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#required-fields) | 
 **program_potential_outcome** | Numeric code(0-9) indicating the potential outcome of the program of study, see the [ETA codes]() for corresponding outcomes
+**program_website** | URL for the program or provider's website
 
 ## Recommended Fields
 The following fields are not required but they are recommended to provide more insights into program data.
@@ -25,7 +26,6 @@ Data Field | Description
 ------ | -----------
 **program_contact_phone** | Phone number for the program's contact
 **program_contact_email** | Email address for the program's contact
-**program_website** | URL for the program or provider's website
 **languages** | Languages in which the program is offered
 **current_intake_capacity** | Number of participants that the program can enroll
 **program_offering_model** | Also known as the `program format`, a numeric code indicating how is a program offered? Classes at a physical location, online, set of workshops? See the [ETA codes]() for the corresponding offering models. These closely relates to the `learning_method` captured in [Credentials recommended fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#recommended-fields)
