@@ -6,7 +6,8 @@ The outlined fields are required to derive the required set of provider outcomes
 
 Data Fields | Description
 ------------| --------------
-**program_id** | Numeric ID uniquely identifying the program for which the credential is awarded
+**program_provider** | Name of provider offering a training program. This may be a college(2-year or 4-year), vocational institute or organization offering programs
+**program_code** | Numeric code uniquely identifying the category in which program falls, e.g Classification of Instructional Programs(CIP) code for the program
 **credential_name** | Full name of the credential offered for program
 **credential_description** | Full description of the credential as offered by provider for the associated program
 **credential_type** | Type of credential obtained e.g `Associate Degree`, `Bachelors Degree`, `Apprenticeship Certificate`. These credential types match up the [Credentials Registry Mapping of `Credential Type`](http://credreg.net/ctdl/mapping/registry)
