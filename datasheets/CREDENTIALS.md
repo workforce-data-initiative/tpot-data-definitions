@@ -21,7 +21,7 @@ The following fields are not required but they are recommended to provide more c
 
 Data Fields | Description
 ------------| --------------
-**CTID** | If available, [Globally unique Credential Transparency Identifier (CTID)](http://credreg.net/ctdl/terms/ctid#ctid) by which the provider of a credential recognizes the (credential) entity in transactions with the external environment (e.g., in verifiable claims involving a credential)
+**ctid** | If available, [Globally unique Credential Transparency Identifier (CTID)](http://credreg.net/ctdl/terms/ctid#ctid) by which the provider of a credential recognizes the (credential) entity in transactions with the external environment (e.g., in verifiable claims involving a credential)
 **webpage** | URL for the webpage that describes the credential. If this is not included with credentials data, the   `program_website` in the [Programs Required Fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields) for the associated program is assumed
 
 
