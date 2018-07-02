@@ -34,7 +34,7 @@ Data Field | Description
 **prerequisites** | Numeric code(0-5) indicating pre-requisite training and/or credentials are required to qualify for the program, see the [ETA codes]() for corresponding pre-requisites
 **program_soc** | 8-digit O\*NET `Standard Occupational Classification (SOC)` code(without dashes or decimal points) for which this program prepares participant. This has a [mapping to the program CIP code](https://www.onetonline.org/crosswalk/CIP?s=&g=Go)
 **funding_sources** | Sources of funding for the program including state or federal support
-**is_etpl** | Where applicable, is this program on the Eligible Training Provider List(ETPL)? An indication of `Yes` or `No`, null entry is assumed to be `N/A`
+**on_etpl** | Where applicable, is this program on the Eligible Training Provider List(ETPL)? An indication of `Yes` or `No`, null entry is assumed to be `N/A`
 
 ## Data Samples
 See what a valid programs file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/programs.csv).
