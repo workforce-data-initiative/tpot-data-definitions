@@ -31,7 +31,7 @@ Data Field | Description
 **program_offering_model** | Also known as the `program format`, a numeric code indicating how is a program offered? Classes at a physical location, online, set of workshops? See the [ETA codes]() for the corresponding offering models. These closely relates to the `learning_method` captured in [Credentials recommended fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#recommended-fields)
 **program_length_hours** | Duration of program instruction in hours, typically for short-running programs
 **program_length_weeks** | Duration of program instruction in weeks, typically applicable to longer running programs
-**pre-requisites** | Numeric code(0-5) indicating pre-requisite training and/or credentials are required to qualify for the program, see the [ETA codes]() for corresponding pre-requisites
+**prerequisites** | Numeric code(0-5) indicating pre-requisite training and/or credentials are required to qualify for the program, see the [ETA codes]() for corresponding pre-requisites
 **program_soc** | 8-digit O\*NET `Standard Occupational Classification (SOC)` code(without dashes or decimal points) for which this program prepares participant. This has a [mapping to the program CIP code](https://www.onetonline.org/crosswalk/CIP?s=&g=Go)
 **funding_sources** | Sources of funding for the program including state or federal support
 **is_etpl** | Where applicable, is this program on the Eligible Training Provider List(ETPL)? An indication of `Yes` or `No`, null entry is assumed to be `N/A`
