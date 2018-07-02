@@ -1,6 +1,8 @@
 # Data Sheet for Participants
 The description of required and recommended fields for participants data follows. Participants data files for upload may include any additional fields not listed here.
 
+Participants are associated with the Training Provider that makes the data uploads.
+
 ## Required Fields
 The outlined fields are required to derive the required set of provider outcomes. Files uploaded need not necessarily use the same field header names.
 
@@ -10,7 +12,7 @@ Data Fields | Description
 **program_code** | Numeric code uniquely identifying the category in which program falls e.g it's Classification of Instructional Programs(CIP). This maps to the [`program_code` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
 **entry_date** | Date participant commenced the program, this may differ from the enrollment date and the official date of program commencement set by the provider, in the format `YYYYMMDD`
 **exit_date** | Date participant exited the program, in the format `YYYYMMDD`
-**exit_type** | Nature of participant's exit from the program e.g `Graduated`, `Transferred` etc. This maps to the [`program_potential_outcome` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
+**exit_type** | Nature of participant's exit from the program e.g `Graduated`, `Transferred`, `Completed` etc
 **exit_reason** | For individuals that exit program based on exit types related to abandonment of program, use any of these numeric values to capture why, `01 = Institutionalized`, `02 = Health/Medical`, `03 = Deceased`, `04 = Reserve Forces called to Active Duty`, `05 = Foster Care`, `06 = Ineligible`, `99 = Not a Valid SSN`, `00 = Other`. There is also an additional option, `98 = Retirement`. These options are based on the WIOA codes provided in [PIRL]() at this time
 
 ## Recommended Fields
