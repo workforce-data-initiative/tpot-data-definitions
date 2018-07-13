@@ -10,6 +10,7 @@ Data Fields | Description
 ------------| --------------
 **participant_id** | Unique ID identifying a program participant throughout period of participation, e.g a Social Security Number. Participant unique identification supports operations like wage matching for outcomes derivation
 **program_code** | Numeric code uniquely identifying the category in which program falls e.g it's Classification of Instructional Programs(CIP). This maps to the [`program_code` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
+**program_provider** | Name of provider offering a training program. This may be a college (2-year or 4-year), vocational institute or organization offering programs
 **entry_date** | Date participant commenced the program, this may differ from the enrollment date and the official date of program commencement set by the provider, in the format `YYYYMMDD`
 **exit_date** | Date participant exited the program, in the format `YYYYMMDD`
 **exit_type** | Nature of participant's exit from the program e.g `Graduated`, `Transferred`, `Completed` etc
