@@ -35,6 +35,7 @@ Data Field | Description
 **program_soc** | 8-digit O\*NET `Standard Occupational Classification (SOC)` code(without dashes or decimal points) for which this program prepares participant. This has a [mapping to the program CIP code](https://www.onetonline.org/crosswalk/CIP?s=&g=Go)
 **funding_sources** | Sources of funding for the program including state or federal support
 **on_etpl** | Where applicable, is this program on the Eligible Training Provider List(ETPL)? An indication of `Yes` or `No`, null entry is assumed to be `N/A`
+**cost_of_books_and_supplies** | Cost of books and supplies
 
 ## Data Samples
 See what a valid programs file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/programs.csv).
