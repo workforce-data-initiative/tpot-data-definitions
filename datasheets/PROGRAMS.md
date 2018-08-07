@@ -39,6 +39,7 @@ Data Field | Description
 
 ## ETA Codes
 ```
+Potential outcomes:
 1 = A program of study leading to an industry-recognized certificate or certification
 2 = A program of study leading to a certificate of completion of an apprenticeship
 3 = A program of study leading to a license recognized by the State involved or the Federal Government,
@@ -49,6 +50,14 @@ Data Field | Description
 8 = A program of study leading to employment
 9 = A program of study leading to a measureable skills gain leading to a credential
 0 = A program of study leading to a measureable skills gain leading to employment
+
+Prerequisites:
+0 = None
+1 = High School Diploma or Equivalent
+2 = Associate's Degree
+3 = Bachelor's Degree
+4 = Course(s)
+5 = Combination of Education and Course(s)
 ```
 
 ## Data Samples
