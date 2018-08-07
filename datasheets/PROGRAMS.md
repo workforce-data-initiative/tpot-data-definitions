@@ -37,5 +37,19 @@ Data Field | Description
 **on_etpl** | Where applicable, is this program on the Eligible Training Provider List(ETPL)? An indication of `Yes` or `No`, null entry is assumed to be `N/A`
 **cost_of_books_and_supplies** | Cost of books and supplies
 
+## ETA Codes
+```
+1 = A program of study leading to an industry-recognized certificate or certification
+2 = A program of study leading to a certificate of completion of an apprenticeship
+3 = A program of study leading to a license recognized by the State involved or the Federal Government,
+4 = A program of study leading to an associate degree
+5 = A program of study leading to a baccalaureate degree
+6 = A program of study leading to a community college certificate of completion
+7 = A program of study leading to a secondary school diploma or its equivalent
+8 = A program of study leading to employment
+9 = A program of study leading to a measureable skills gain leading to a credential
+0 = A program of study leading to a measureable skills gain leading to employment
+```
+
 ## Data Samples
 See what a valid programs file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/programs.csv).
