@@ -1,6 +1,8 @@
 # Data Sheet for Programs
 The description of required and recommended fields for programs data follows. Programs data files for upload may include any additional fields not listed here. 
 
+If the institution in question offers a program at multiple locations, please include a separate entry for each location.
+
 ## Required Fields
 The outlined fields are required to derive the required set of provider outcomes. Field header names need not exactly match those outlined below in the files uploaded.
 
