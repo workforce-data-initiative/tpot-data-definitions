@@ -1,7 +1,7 @@
 # Data Sheet for Participants
 The description of required and recommended fields for participants data follows. Participants data files for upload may include any additional fields not listed here.
 
-Participants are associated with the Training Provider that makes the data uploads.
+Ideally, participants data should go back approximately two years or more, so that complete outcomes calculations can be produced.
 
 ## Required Fields
 The outlined fields are required to derive the required set of provider outcomes. Files uploaded need not necessarily use the same field header names.
