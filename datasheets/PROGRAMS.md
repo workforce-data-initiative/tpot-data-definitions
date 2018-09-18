@@ -13,7 +13,7 @@ Data Field | Description
 **program_code** | Numeric code uniquely identifying the category in which program falls, e.g Classification of Instructional Programs(CIP) code for the program
 **program_description** | Description of the program offered
 **program_status** | Current status of the program, indicating if it is still offered by the training provider e.g `Open`, `Discontinued`, `Deferred`
-**program_fees** | Cost of the program offered
+**program_fees** | Cost of the program offered (for non-WIOA participants)
 **geographic_areas** | Area(s) serviced by the program, this could be state, county or city
 **program_address** | Physical address where the program is offered
  **eligibility_criteria** | Requirement(s) for eligibility to enroll for the program e.g `Residents`, `MilitarySpouse`, `BachelorsLevel`. This closely [links to `Audience` and `Audience Level` in Credentials recommended fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/CREDENTIALS.md#recommended-fields) 
@@ -37,7 +37,7 @@ Data Field | Description
 **program_soc** | 8-digit O\*NET `Standard Occupational Classification (SOC)` code(without dashes or decimal points) for which this program prepares participant. This has a [mapping to the program CIP code](https://www.onetonline.org/crosswalk/CIP?s=&g=Go)
 **funding_sources** | Sources of funding for the program including state or federal support
 **on_etpl** | Where applicable, is this program on the Eligible Training Provider List(ETPL)? An indication of `Yes` or `No`, null entry is assumed to be `N/A`
-**cost_of_books_and_supplies** | Cost of books and supplies
+**cost_of_books_and_supplies** | Cost of books and supplies (for non-WIOA participants)
 
 ## ETA Codes
 ```
