@@ -21,13 +21,6 @@ Data Fields | Description
 **exit_reason** | For individuals that exit program based on exit types related to abandonment of program, use any of these numeric values to capture why, `01 = Institutionalized`, `02 = Health/Medical`, `03 = Deceased`, `04 = Reserve Forces called to Active Duty`, `05 = Foster Care`, `06 = Ineligible`, `99 = Not a Valid SSN`, `00 = Other`. There is also an additional option, `98 = Retirement`
 **employment_type_exit_q1** | Numeric value denoting type of employment individual is engaged in during the 1st quarter after they exit the program in which they were enrolled. Options are, `1 = State wage records`, `2 = WRIS wage records`, `3 = Federal Employment Records(OPM)`, `4 = Military Employment Records(DOD)`, `5 = Other Administrative Wage Records`, `6 = Supplemental through case management, participant survey, and/or verification with the employer`, `7 = Information not yet available`, `0 = Not employed`
 **ita** |  Boolean: is individual receiving WIOA Title I funding via an ITA? 
-
-## Recommended Fields
-
-The following fields are not required but they are recommended to provide additional data for more detailed outcomes analysis.
-
-Data Fields | Description
-------------| --------------
 **date_of_birth** | Participant date of birth in the format `YYYYMMDD`. Note that this is mandatory for Vocational Rehabilitation (RSA)
 **gender** | Numeric value indicating participant gender as `1 = Male`, `2 = Female`, `9 = Participant did not self-identify`
 **ethnicity** | PIRL offers 7 field options: `Hispanic/Latino`, `American Indian/Alaska Native`, `Asian`, `Black/African American`, `Native Hawaiian/Other Pacific Islander`, `White`, `More Than One Race`  . For any one of these captured for a participant, ethnicity is recorded as `1 = Yes`, `0 = No`, `9 = Participant did not self-identify`
