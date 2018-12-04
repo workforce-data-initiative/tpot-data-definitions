@@ -24,6 +24,7 @@ Data Fields | Description
 **program_name** | Name of the participant's program
 **service_location** | Geographic location of service of the program a participant is enrolled in. Ideally this would map to one of the [`geographic areas` in the Programs required fields](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#required-fields)
 **funding_sources** | Sources of funding for the participant's program. Sources of funding may relate to [`funding sources` captured for Programs data](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/datasheets/PROGRAMS.md#recommended-fields)
+**wioa_participant** | Flag (1=Yes, 0=No) for whether this participant is a WIOA participant.
 
 ## Data Samples
 See what a valid participants file could look like from the [templates](https://github.com/workforce-data-initiative/tpot-data-definitions/blob/master/templates/participants.csv).
